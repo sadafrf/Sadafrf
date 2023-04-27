@@ -13,14 +13,14 @@ Hi, I'm Sadaf Raoufi!
 <br/>
 <p align="center">
 	<a href="https://github.com/sadafrf">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Leatrning+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a research assistant at Wheelerlab Computational Biology Research Group
+💻 I am a research assistant at Wheelerlab Computational Biology Research Group 
 📚 I am a master student in Computer Science at University of Arizona
 📝 I have a strong interest in Computation Biology and Artificial Intelligence
 🔭 I am currently working on Genomic data & Machine Learning
@@ -54,6 +54,7 @@ Hi, I'm Sadaf Raoufi!
     <a href="https://github.com/sadafrf"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/sadafrf"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/sadafrf"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/sadafrf"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch%20-%23D00000.svg?logo=Pytorch&logoColor=white"></a>
     
 </p>
 
@@ -70,32 +71,9 @@ Hi, I'm Sadaf Raoufi!
 </p>
 </br>
 
-<!--
-### 👨🏽‍💻 Workspace
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
-
-
-## <a href="https://github.com/sadafrf"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-
--->
-
-
-
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
 If you have any questions feel free to <a href="mailto:sraoufi@arizona.edu">contact me through email</a> me.
-
-  </tr>
-
+</p>
 
 ------
 
