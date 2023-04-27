@@ -8,7 +8,7 @@ Hi, I'm Sadaf Raoufi!
 <br/>
 <p align="center">
 	<a href="https://github.com/sadafrf">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Developer;%20Bioinformatics|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Developer%20Bioinformatics%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -18,8 +18,7 @@ Hi, I'm Sadaf Raoufi!
 💻 I am a research assistant at <a href="https://github.com/TravisWheelerLab">Wheelerlab Computational Biology Research Group</a>.
 📚 I am a master student in Computer Science at University of Arizona
 📝 I have a strong interest in Computational Biology and Artificial Intelligence
-🔭 I am currently working on Genomic data & Machine Learning
-🌱 Learning about Genetics, Proteins and Machine Learning stuff
+🔭 I am currently learning more about with Genomic data & Machine Learning
 🌟 Main languages: Python
 
 
