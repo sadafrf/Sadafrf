@@ -1,16 +1,14 @@
 <h1 align="center">
 Hi, I'm Sadaf Raoufi!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/sadafrf" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	<a href="https://github.com/sadafrf">
+		<img src="https://komarev.com/ghpvc/?username=sadafrf&label=Profile%20views&color=0e75b6&style=flat" alt="sadafrf" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
+	
 </p>
 <br/>
 <p align="center">
@@ -84,31 +82,11 @@ Hi, I'm Sadaf Raoufi!
 ## <a href="https://github.com/sadafrf"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ sadafrf's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/sadafrf">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sadafrf&show_icons=true" alt="sadafrf">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadafrf" alt="sadafrf">
-	</a>
-	<br/>
-</p>
 
 -->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/sadafrf">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="sadafrf">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
 
-<table style="border: none">
+
   <tr>
   <td width="50%" valign="top">
 
@@ -116,16 +94,8 @@ Hi, I'm Sadaf Raoufi!
 
 If you have any questions feel free to <a href="mailto:sraoufi@arizona.edu">contact me through email</a> me.
 
-
-  </td>
-  <td width="50%" valign="top">
-
-
-
-
-  </td>
   </tr>
-</table>
+
 
 ------
 
