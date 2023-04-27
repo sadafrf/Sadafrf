@@ -4,25 +4,20 @@ Hi, I'm Sadaf Raoufi!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/sadafrf">
-		<img src="https://komarev.com/ghpvc/?username=sadafrf&label=Profile%20views&color=0e75b6&style=flat" alt="sadafrf" />
-	</a>
-	
-</p>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/sadafrf">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Leatrning+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 
 <pre>
-💻 I am a research assistant at Wheelerlab Computational Biology Research Group 
+💻 I am a research assistant at Wheelerlab Computational Biology Research Group (https://github.com/TravisWheelerLab)
 📚 I am a master student in Computer Science at University of Arizona
-📝 I have a strong interest in Computation Biology and Artificial Intelligence
+📝 I have a strong interest in Computational Biology and Artificial Intelligence
 🔭 I am currently working on Genomic data & Machine Learning
 🌱 Learning about Genetics, Proteins and Machine Learning stuff
 🌟 Main languages: Python
