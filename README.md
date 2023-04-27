@@ -45,7 +45,9 @@ Hi, I'm Sadaf Raoufi!
 
 <p>
 
-    <a href="https://github.com/sadafrf"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/sadafrf"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  
+</p>
 
 ### 🧰 Frameworks and Libraries
 
@@ -85,9 +87,9 @@ Hi, I'm Sadaf Raoufi!
 <summary><b>⚡ sadafrf's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<a href="https://github.com/sadafrf">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sadafrf&show_icons=true" alt="sadafrf">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadafrf" alt="sadafrf">
 	</a>
 	<br/>
 </p>
@@ -97,8 +99,8 @@ Hi, I'm Sadaf Raoufi!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/sadafrf">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="sadafrf">
 	</a>
 	<br/>
 <br/>
@@ -127,6 +129,6 @@ If you have any questions feel free to <a href="mailto:sraoufi@arizona.edu">cont
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[sadafrf](https://github.com/sadafrf)
 
 Last Edited on: 19/07/2022
