@@ -38,6 +38,8 @@ Hi, I'm Sadaf Raoufi!
 <p>
 
   <a href="https://github.com/sadafrf"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/sadafrf"><img alt="C++" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=cpp&logoColor=red"></a>
+  <a href="https://github.com/sadafrf"><img alt="C" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=c&logoColor=green"></a>
   
 </p>
 
