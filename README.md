@@ -17,9 +17,9 @@ Hi, I'm Sadaf Raoufi!
 <pre>
 💻 I am currently working as a Research Assistant at <a href="https://github.com/TravisWheelerLab">Wheelerlab Computational Biology Research Group</a>.
 📚 I am a Master's student in Computer Science at University of Arizona
-📝 I have a strong interest in Computational Biology and Artificial Intelligence
+📝 I have a strong interest in Computational Biology and Machine Learning
 🔭 I am currently learning more about Genomic data and Proteins
-🌟 Main languages: Python
+🌟 Main language: Python
 
 
 </pre>
