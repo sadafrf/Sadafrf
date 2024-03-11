@@ -15,19 +15,20 @@ Hi, I'm Sadaf Raoufi!
 <hr>
 
 <pre>
-💻 I am currently working as a Research Assistant at <a href="https://github.com/TravisWheelerLab">Wheelerlab Computational Biology 
-Research Group</a>.
-📚 I am a Master's student in Computer Science at the University of Arizona. I have a strong interest
-in Computational Biology and Machine Learning and my project focuses on the genetic variations in
-immune-related genes, particularly the human leukocyte antigen (HLA) locus, and their link to various
-health outcomes like adverse drug reactions, cancer, and cardiovascular diseases. Also, I try to analyze 
-the Traditional methods like GWAS and PheWAS mutations independently and try to implement them with a 
-Machine Learning approach.
+💻 I am currently working as a Research Assistant at <a href="https://github.com/TravisWheelerLab">
+Wheelerlab Computational Biology Research Group</a>.
+	
+📚 I am a Master's student in Computer Science at the University of Arizona. I have a strong 
+interest in Computational Biology and Machine Learning and my project focuses on the genetic
+variations in immune-related genes, particularly the human leukocyte antigen (HLA) locus, 
+and their link to various health outcomes like adverse drug reactions, cancer, and cardiovascular 
+diseases. Also, I try to analyze the Traditional methods like GWAS and PheWAS mutations independently 
+and try to implement them with a Machine Learning approach.
+	
 📝 I have a strong interest in Computational Biology and Machine Learning and I am currently learning more
 about Genomic data and Proteins
+	
 🌟Used to work as an AI developer in an advertisement monitoring company
-
-
 
 </pre>
 <hr>
