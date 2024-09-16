@@ -23,8 +23,7 @@ the human leukocyte antigen (HLA) locus, and their link to various health outcom
 cancer, and cardiovascular diseases. Also, I try to analyze the Traditional methods like GWAS and PheWAS mutations
 independently and try to implement them with a Machine Learning approach.
 	
-📝 I have a strong interest in Computational Biology and Machine Learning and I am currently learning more
-about Genomic data and Proteins
+📝 I am currently learning more about Genomic data and Proteins
 	
 🌟Used to work as an AI developer in an advertisement monitoring company
 
