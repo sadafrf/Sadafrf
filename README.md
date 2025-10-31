@@ -23,7 +23,7 @@ Hi, I'm Sadaf Raoufi!
 the human leukocyte antigen (HLA) locus, and their link to various health outcomes like adverse drug reactions, 
 cancer, and cardiovascular diseases. 
 	
-📝 I am currently learning more about Genomic data and Proteins
+📝 I am currently learning more about viromics and microbiome research.
 	
 
 
