@@ -19,13 +19,13 @@ Hi, I'm Sadaf Raoufi!
 	As a master's student in Computer Science, I worked as a Research Assistant in the <a href="https://github.com/TravisWheelerLab"> Wheelerlab Computational Biology Research Group</a>.
 
 	
-📚 I have a strong interest in Computational Biology and Machine Learning. My project over the time of my master's program in computer science focused on the genetic variations in immune-related genes, particularly 
+📚 I have a strong interest in Bioinformatics, Genomic Analysis, and Machine Learning. My project over the time of my master's program in computer science focused on the genetic variations in immune-related genes, particularly 
 the human leukocyte antigen (HLA) locus, and their link to various health outcomes like adverse drug reactions, 
 cancer, and cardiovascular diseases. 
 	
 📝 I am currently learning more about Genomic data and Proteins
 	
-🌟Used to work as an AI developer in an advertisement monitoring company
+
 
 </pre>
 <hr>
