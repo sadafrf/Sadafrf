@@ -16,7 +16,7 @@ Hi, I'm Sadaf Raoufi!
 
 <pre>
 💻  I am currently a PhD student in Bioinformatics and working as a research assistant at Hurwitz lab at NCSU.
-	As a master's student in Computer Science, I worked as a Research Assistant in the <a href="https://github.com/TravisWheelerLab"> Wheelerlab Computational Biology Research Group</a>.
+	During my master's in Computer Science, I worked as a Research Assistant in the <a href="https://github.com/TravisWheelerLab"> Wheelerlab Computational Biology Research Group</a>.
 
 	
 📚 I have a strong interest in Bioinformatics, Genomic Analysis, and Machine Learning. My project over the time of my master's program in computer science focused on the genetic variations in immune-related genes, particularly 
