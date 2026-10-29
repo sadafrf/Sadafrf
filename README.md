@@ -15,7 +15,7 @@ Hi, I'm Sadaf Raoufi!
 <hr>
 
 <pre>
-💻  I am currently a PhD student in Bioinformatics and working as a research assistant at <a href="https://github.com/hurwitzlab"> Hurwitz lab at NCSU.
+💻  I am currently a PhD student in Bioinformatics and working as a research assistant at <a href="https://github.com/hurwitzlab"> Hurwitz lab at NCSU</a>.
 	
 	During my master's in Computer Science, I worked as a Research Assistant in the <a href="https://github.com/TravisWheelerLab"> Wheelerlab Computational Biology Research Group</a>.
 
